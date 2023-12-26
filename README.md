@@ -12,4 +12,4 @@ Install the dependencies of the project by typing the command below:
 pip install -r requirements.txt
 ```
 
-![Workshop Cover](./Cover.png)
+<img src="./Cover.png" width="300"/>
