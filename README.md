@@ -7,4 +7,4 @@ The goal of the workshop is introducing people to the Python programming languag
 ### About the Python Project:
 The project consists of a Flask application for editing metadata of music files, such as song cover, album name, and others. We also automated the retrieval of the music release year information by scraping details from its Wikipedia page.
 
-![Workshop Cover](./cover.png)
+![Workshop Cover](./Cover.png)
